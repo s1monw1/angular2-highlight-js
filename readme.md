@@ -58,7 +58,7 @@ var packages = {
 
 Just install the package and then import the module as below.
 
-Import the **HighlighJsModule** at the appropiate level in your app. If you are going to use the **HighlightJsService** than add the provider too.
+Import the **HighlighJsModule** at the appropiate level in your app. If you are going to use the **HighlightJsService** then add the provider too.
 
 For example in **app.module.ts**
 
